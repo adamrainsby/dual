@@ -1,0 +1,9 @@
+name: dual
+version: 0.1.0
+
+authors:
+  - Adam Rainsby <adamrainsby@live.co.uk>
+
+crystal: 0.22.0
+
+license: MIT
